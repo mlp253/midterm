@@ -1,0 +1,14 @@
+h1 ,h2 {
+  font-family:Bitter;
+}
+
+a {
+  font-family: Oswald;
+  text-decoration: none;
+  hover-color: green;
+}
+
+a:hover{
+  color:red;
+}
+
