@@ -1,9 +1,9 @@
 h1 ,h2 {
-  font-family:Bitter;
+  font-family:'Lora', serif;
 }
 
 a {
-  font-family: Oswald;
+  font-family: 'Montserrat', sans-serif;
   text-decoration: none;
   hover-color: green;
 }
